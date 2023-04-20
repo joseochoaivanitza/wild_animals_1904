@@ -1,2 +1,2 @@
-# wild_animals_1904
+# wild_animals
 work_test
